@@ -14,15 +14,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  List<ItemsModel> product = [];
-  Future<void> readJson() async {
-    final String response =
-        await root.rootBundle.loadString('jsonFile/listOfItems.json');
-    final list = jsonDecode(response) as List<dynamic>;
-    setState(() {
-      product = list.map((e) => ItemsModel.fromJson(e)).toList();
-    });
-  }
+ 
 
   @override
   Widget build(BuildContext context) {

@@ -18,9 +18,8 @@ class Logic with ChangeNotifier {
     notifyListeners();
   }
 
-//   void deleteTask(ItemsModel task, int index) {
-
-//     interest.removeAt(task,index);
-//   }
-// }
+  void deleteTask(ItemsModel task) {
+    interest.remove(task);
+  }
 }
+
