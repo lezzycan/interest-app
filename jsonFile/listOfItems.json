@@ -1,47 +1,38 @@
-   [
+[
     {
-        "id" : "0",
+        "id": "0",
         "name": "Football"
-   
     },
-
     {
-        "id" : "1",
+        "id": "1",
         "name": "Music"
     },
-
     {
-        "id" : "2",
+        "id": "2",
         "name": "Medicine"
     },
     {
-        "id" : "3",
+        "id": "3",
         "name": "Agriculture"
     },
     {
-        "id" : "4",
+        "id": "4",
         "name": "Sports"
     },
     {
-        "id" : "5",
+        "id": "5",
         "name": "Breakfast"
     },
-   
     {
-        "id" : "6",
+        "id": "6",
         "name": "Clubbing"
     },
-
     {
-        "id" : "7",
+        "id": "7",
         "name": "Travel"
     },
-
     {
-        "id" : "8",
+        "id": "8",
         "name": "Exportation"
     }
-  ]
-
-
-  
+]

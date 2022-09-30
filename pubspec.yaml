@@ -16,6 +16,8 @@ dependencies:
     sdk: flutter
   provider: ^6.0.3
   widget_visibility_detector: ^1.0.1
+  flutter_screenutil: ^5.5.4
+  stacked: ^3.0.0
 
 dev_dependencies:
   flutter_lints: ^2.0.0
